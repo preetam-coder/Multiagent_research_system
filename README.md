@@ -1,6 +1,8 @@
 
 An intelligent multi-agent research system powered by AI that automates research gathering, analysis, and report generation. ResearchMind orchestrates multiple specialized AI agents to deliver comprehensive, well-structured research reports in minutes.
 
+
+App working link="https://multiagentresearchsystem-mfehfbqrqzny4wanlc6wfd.streamlit.app/"
 ## 🌟 Features
 
 - **🔍 Intelligent Search Agent** — Crawls the web using Tavily API to find recent, reliable information
